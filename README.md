@@ -3,6 +3,8 @@
 
 ## Description
 
+Note: This is a coding project made by a team of 4 where I am mainly responsible for building Front-End aspects of the project.
+
 The Task Management System is a powerful tool designed to foster clear, real-time understanding of task allocation and progress in a collaborative setting. It provides a comprehensive overview of the status of the tasks that each member of the team is working on, significantly reducing the chance of misunderstanding, task duplication, and inefficient use of resources. 
 
 The project aims to simplify the process of task organization and tracking, providing users with an efficient way to manage their workload, prioritize tasks, and collaborate with team members. By doing so, the Task Management System enhances team productivity and collaboration, and ensures smooth progression of projects.
